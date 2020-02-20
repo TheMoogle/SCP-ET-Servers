@@ -1,7 +1,3 @@
 [
-  {ip:"localhost",serverName:"Test2",playersOnline:0,maxPlayers:100},
-  {ip:"localhost",serverName:"Test4",playersOnline:5,maxPlayers:100},
-  {ip:"localhost",serverName:"Test7",playersOnline:20,maxPlayers:100},
-  {ip:"localhost",serverName:"Test8",playersOnline:12,maxPlayers:100},
-  {ip:"localhost",serverName:"Test",playersOnline:0,maxPlayers:100}
+  {ip:"91.226.39.222:7777",serverName:"Test2",playersOnline:0,maxPlayers:100}
 ]
