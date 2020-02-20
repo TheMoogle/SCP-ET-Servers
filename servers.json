@@ -1,1 +1,3 @@
-
+[
+  {ip:"localhost",serverName:"Test",playersOnline:0,maxPlayers:100}
+]
