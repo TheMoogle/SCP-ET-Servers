@@ -1,12 +1,12 @@
 {
-  "Launcher_Latest_Version": "0.0.1",
+  "Launcher_Latest_Version": "0.0.2",
   "Game_Latest_Version": "0.0.1",
   "Launcher_Latest_Download_Link": "",
   "Game_Latest_Download_Link": "",
   "Game_Other_Versions": [
     {
       "build": "release",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "downlaod_link": ""
     },
     {
