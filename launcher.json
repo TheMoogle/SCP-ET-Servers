@@ -2,17 +2,17 @@
   "Launcher_Latest_Version": "0.0.1",
   "Game_Latest_Version": "0.0.3.2",
   "Launcher_Latest_Download_Link": "",
-  "Game_Latest_Download_Link": "https://github.com/Killers0992/SCP-ET-Servers/releases/download/v0.0.2/SCP_ET.zip",
+  "Game_Latest_Download_Link": "https://github.com/Killers0992/SCP-ET-Servers/releases/download/v0.0.3.2/SCP_ET_0_0_3_2.zip",
   "Game_Other_Versions": [
     {
       "build": "release",
       "version": "0.0.3.2",
-      "download_link": "https://github.com/Killers0992/SCP-ET-Servers/releases/download/v0.0.2/SCP_ET.zip"
+      "download_link": "https://github.com/Killers0992/SCP-ET-Servers/releases/download/v0.0.3.2/SCP_ET_0_0_3_2.zip"
     },
     {
       "build": "release",
       "version": "0.0.3",
-      "download_link": "https://github.com/Killers0992/SCP-ET-Servers/releases/download/v0.0.3/SCP_ET.zip"
+      "download_link": "https://github.com/Killers0992/SCP-ET-Servers/releases/download/v0.0.3/SCP_ET_0_0_3.zip"
     },
     {
       "build": "release",
