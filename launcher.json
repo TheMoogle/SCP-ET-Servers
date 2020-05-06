@@ -7,12 +7,12 @@
     {
       "build": "release",
       "version": "0.0.2",
-      "downlaod_link": "https://github.com/Killers0992/SCP-ET-Servers/releases/download/v0.0.2/SCP_ET.zip"
+      "download_link": "https://github.com/Killers0992/SCP-ET-Servers/releases/download/v0.0.2/SCP_ET.zip"
     },
     {
       "build": "release",
       "version": "0.0.1",
-      "downlaod_link": ""
+      "download_link": ""
     }
   ]
 }
