@@ -1,6 +1,6 @@
 [
-  {
-    "ip": "localhost",
-    "port": "7777"
-  }
+   {
+      "ip":"localhost",
+      "port":"7777"
+   }
 ]
