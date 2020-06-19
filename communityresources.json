@@ -14,6 +14,20 @@
         "Version": "1.0.0",
         "DownloadLink": ""
       },
+      {
+      "ResourceID": 2,
+      "ResourceCategory": "Models",
+      "ResourceIcon": "",
+      "ResourceName": "TestModel",
+      "ResourceAuthor": "Reddking",
+      "ResourceCreationDate": "19.06.2020",
+      "ResourceLastUpdateDate": "19.06.2020",
+      "ResourceDescription": "This has no link this is just for testing",
+      "latestFile": {
+        "Type": "alpha",
+        "Version": "1.0.0",
+        "DownloadLink": ""
+      },
       "otherFiles": []
     }
   ]
