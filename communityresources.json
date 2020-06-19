@@ -1,1 +1,20 @@
-
+{
+  "resources": [
+    {
+      "ResourceID": 1,
+      "ResourceCategory": "Maps",
+      "ResourceIcon": "",
+      "ResourceName": "TestResource",
+      "ResourceAuthor": "Killers0992",
+      "ResourceCreationDate": "19.06.2020",
+      "ResourceLastUpdateDate": "19.06.2020",
+      "ResourceDescription": "Test resource",
+      "latestFile": {
+        "Type": "alpha",
+        "Version": "1.0.0",
+        "DownloadLink": ""
+      },
+      "otherFiles": []
+    }
+  ]
+}
