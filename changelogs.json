@@ -7,8 +7,12 @@
       "- Randomized damage on SCP-939 and P90",
       "- Improved AI slightly (SLIGHTLY)",
       "- Improved voice chat",
-      "- Removed Herobrine",
-      "- Work on backend for Community Resources"
+      "- Work on backend for Community Resources",
+      "- Fixed medkits",
+      "- Fixed 'half-sprint' issues regarding SCP-714 and the upgraded gas mask",
+      "- Added ammo that can be picked up and used for the P90",
+      "- You no longer loose sprint from just holding shift and standing still",
+      "- Removed Herobrine"
     ]
   }
 ]
