@@ -1,9 +1,13 @@
 [
   {
-    "Title": "Test",
+    "Title": "Changes in version: 0.1.2.7",
     "Date": "24.06.2020",
     "Description": [
-      "Something text
+      "- New Menu",
+      "- Randomized damage on SCP-939 and P90",
+      "- Improved AI slightly (SLIGHTLY)",
+      "- Improved voice chat",
+      "- Removed Herobrine"
     ]
   }
 ]
